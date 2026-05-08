@@ -1,3 +1,6 @@
+# So as to not track gcp service account keys
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
